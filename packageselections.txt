@@ -1,0 +1,12 @@
+autoconf					install
+build-essential					install
+emacs						install
+git						install
+ipython						install
+libjson-c-dev:amd64				install
+libsystemd-dev:amd64				install
+npm						install
+pep8						install
+pylint						install
+uuid-dev:amd64					install
+valgrind					install
