@@ -2,11 +2,11 @@ autoconf					install
 build-essential					install
 emacs						install
 git						install
-ipython						install
+ipython3					install
 libjson-c-dev:amd64				install
 libsystemd-dev:amd64				install
 npm						install
 pep8						install
-pylint						install
+pylint3						install
 uuid-dev:amd64					install
 valgrind					install
